@@ -1,0 +1,30 @@
+{
+  "id": "cf2b1144-9cff-4f53-b6fe-17581ee30322",
+  "name": "System App Presentation",
+  "publisher": "BC4All.com",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "This extension shows examples for System App. ",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "21.0.0.0",
+  "idRanges": [
+    {
+      "from": 54100,
+      "to": 54149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "11.0"
+
+}
